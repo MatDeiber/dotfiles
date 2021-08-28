@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = mat.deiber@gmail.com
+	name = Mathieu Deiber
